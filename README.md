@@ -42,7 +42,7 @@ Caso encontre problemas ou bugs, abra uma Issue neste repositório ou entre em c
 
 ## Script
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/XoinhoCrypt/XoinhoScripts/refs/heads/main/xoinhouniversal.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XoinhoCrypt/XoinhoThings/main/Scripts/xoinhouniversal.lua"))()
 ```
 
 ## 📄 Licença
